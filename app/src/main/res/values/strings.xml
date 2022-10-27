@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amigo</string>
+    <string name="hi_friend_">HI FRIEND!</string>
+
+    <string name="log_in">log in</string>
+    <string name="Sign_in">Sign in</string>
+</resources>
